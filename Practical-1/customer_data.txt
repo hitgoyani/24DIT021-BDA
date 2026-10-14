@@ -1,0 +1,4 @@
+CustomerID,Name,City
+101,Raj,Ahmedabad
+102,Priya,Vadodara
+103,Amit,Surat

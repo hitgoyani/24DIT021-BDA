@@ -1,0 +1,7 @@
+[
+  { "rollNo": 201, "name": "Deepak", "department": "IT", "semester": 5, "age": 20, "city": "Surat", "marks": 89 },
+  { "rollNo": 202, "name": "Riya", "department": "CE", "semester": 5, "age": 21, "city": "Ahmedabad", "marks": 93 },
+  { "rollNo": 203, "name": "Vikas", "department": "CSE", "semester": 5, "age": 22, "city": "Vadodara", "marks": 77 },
+  { "rollNo": 204, "name": "Pooja", "department": "IT", "semester": 5, "age": 20, "city": "Rajkot", "marks": 84 },
+  { "rollNo": 205, "name": "Manish", "department": "CE", "semester": 5, "age": 21, "city": "Surat", "marks": 71 }
+]
